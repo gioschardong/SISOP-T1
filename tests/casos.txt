@@ -1,0 +1,8 @@
+# arquivo resultado_esperado
+matrizes/exemplo1.txt 3
+matrizes/exemplo2.txt 4
+matrizes/exemplo3.txt 5
+matrizes/exemplo4.txt 6
+matrizes/exemplo5.txt 7
+matrizes/vazia.txt 0
+matrizes/diagonal.txt 1
